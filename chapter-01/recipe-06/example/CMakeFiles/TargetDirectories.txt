@@ -1,0 +1,2 @@
+D:/sourcecode/cmake-cookbook/chapter-01/recipe-06/example/CMakeFiles/ALL_BUILD.dir
+D:/sourcecode/cmake-cookbook/chapter-01/recipe-06/example/CMakeFiles/ZERO_CHECK.dir
